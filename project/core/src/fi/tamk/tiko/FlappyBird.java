@@ -91,6 +91,8 @@ public class FlappyBird extends ApplicationAdapter {
 	private Music backgroundMusic;
 	public float speed = -2f;
 
+	//test
+
 	public BitmapFont font;
 
 	public Preferences prefs;
