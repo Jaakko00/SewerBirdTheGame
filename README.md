@@ -1,5 +1,5 @@
 # SewerBirdTheGame
-A game inspired from FlappyBird, completely made in Java without using any external tutorials
+A game inspired from FlappyBird, completely made in Java
 
 ## How to install
 Download the .jar in build/desktop_1.0.jar and run it
